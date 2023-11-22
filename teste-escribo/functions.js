@@ -11,7 +11,7 @@ function somaDivisiveis(entrada) {
 
         }
     }
-
+    
     return soma;
 }
 
