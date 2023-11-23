@@ -2,7 +2,7 @@
 
 function somaDivisiveis(entrada) {
     let soma = 0;
-
+    console.log(`Entrada = ${entrada}`);
     for (let i = 0; i < entrada; i++) {
         if (i % 3 === 0 || i % 5 === 0) {
             soma += i;
