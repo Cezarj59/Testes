@@ -40,11 +40,11 @@ function exibirResultado() {
 ```
 ## Como Testar
 
-1. Clone o repositório.
-2. Abra o arquivo `index.html` em um navegador web.
-3. Insira um número inteiro no campo de entrada.
-4. Clique no botão "Calcular Soma".
-5. Verifique o resultado no console e na página HTML.
+1. Clique no link: https://cezarj59.github.io/Testes/
+2. Insira um número inteiro no campo de entrada.
+3. Clique no botão "Calcular Soma".
+4. Verifique o resultado na página HTML.
+5. Se preferir verifique o resultado com histórico de divisores no console e na página HTML.
 
 ## Exemplos
 
