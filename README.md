@@ -1,4 +1,4 @@
-# Projeto JavaScript - Somatório de Números Divisíveis
+# Teste - Somatório de Números Divisíveis
 
 ## Desafio Técnico 1
 
